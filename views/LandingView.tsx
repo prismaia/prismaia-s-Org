@@ -1,6 +1,5 @@
 
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { Scissors, CheckCircle, Smartphone, Calendar, BarChart } from 'lucide-react';
 
 const LandingView: React.FC = () => {
