@@ -1,6 +1,5 @@
 
 import React, { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
 import { api } from '../services/supabaseMock';
 import { Scissors, Mail, Lock } from 'lucide-react';
 
