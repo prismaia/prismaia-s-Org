@@ -1,0 +1,7 @@
+{
+  "name": "MeuBarbeiro SaaS",
+  "description": "A comprehensive B2B SaaS for barbershops featuring client booking, admin management, and automated WhatsApp integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
