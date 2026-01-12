@@ -1,6 +1,5 @@
 
 import React, { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
 import { api } from '../services/supabaseMock';
 import { Barbershop, Barber, Service } from '../types';
 import { Scissors, Calendar, Clock, User, CheckCircle2, ChevronLeft } from 'lucide-react';
